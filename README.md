@@ -1,2 +1,2 @@
-# Soru-Cevap Çalışma Uygulaması (React + Vite)
+# Soru-Cevap Çalışma Uygulaması  (React + Vite)
 
